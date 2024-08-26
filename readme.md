@@ -1,2 +1,2 @@
 # Recetario
-## Construcción de software
+## ~~Construcción de software~~
